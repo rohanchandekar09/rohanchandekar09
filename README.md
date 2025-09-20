@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Rohan Chandekar  
 
-<!--
-**rohanchandekar09/rohanchandekar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Engineering Student | Aspiring Front-End Developer**  
 
-Here are some ideas to get you started:
+🔹 Passionate about building clean and user-friendly applications.  
+🔹 Skilled in Python, HTML, CSS, and JavaScript.  
+🔹 Currently learning **Java** to strengthen backend development skills.  
+🔹 Experienced with academic projects like Student DBMS, Real-Time Review System, and MediCheck App.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills  
+
+### 🖥️ Languages & Frontend  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### ⚙️ Backend (Learning)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
+
+---
+
+## 📌 Projects  
+- [MediCheck](https://github.com/rohanchandekar09/Medicheck) – Medicine Expiry & Stock Tracker  
+- Student Database Management System – MySQL + Java (JDBC)  
+- Real-Time Review System (DRS) – Review-based app  
+
+---
+
+## 📊 GitHub Stats  
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanchandekar09&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanchandekar09&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rohanchandekar09&theme=radical)  
+
+---
+
+## 📫 Connect with me  
+- ✉️ Email: [rohanchandekar09@gmail.com](mailto:rohanchandekar09@gmail.com)  
+- 💼 LinkedIn: [Rohan Chandekar](https://www.linkedin.com/in/rohan-chandekar-a995b827b)
+- 🌐 Portfolio: (Add if you make one)  

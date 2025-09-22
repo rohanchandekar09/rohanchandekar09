@@ -45,5 +45,5 @@
 
 ## 📫 Connect with me  
 - ✉️ Email: [rohanchandekar09@gmail.com](mailto:rohanchandekar09@gmail.com)  
-- 💼 LinkedIn: [Rohan Chandekar](https://www.linkedin.com/in/rohan-chandekar-a995b827b)
+- 💼 LinkedIn: [Rohan Chandekar](https://www.linkedin.com/in/rohanchandekar09)
 - 🌐 Portfolio: (Add if you make one)  

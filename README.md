@@ -39,7 +39,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanchandekar09&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rohanchandekar09&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=rohanchandekar09&theme=radical)
 
 ---
 

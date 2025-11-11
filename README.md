@@ -34,7 +34,8 @@
 
 ### 🏅 Badge Achievement  
 [![Kaggle Python Coder](https://raw.githubusercontent.com/rohanchandekar09/Portfolio/main/f17bc45e-f349-44e4-9b6a-4119b0756de2.png)](https://www.kaggle.com/rohanchandekar)
-
+### 🏅 Kaggle Badge  
+<img src="https://github.com/rohanchandekar09/rohanchandekar09/blob/main/Python%20Coder.png" alt="Kaggle Python Coder Badge" width="120">
 
 ---
 

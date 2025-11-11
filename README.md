@@ -30,7 +30,11 @@
 ## 📌 Projects  
 - [MediCheck](https://github.com/rohanchandekar09/Medicheck) – Medicine Expiry & Stock Tracker  
 - Student Database Management System – MySQL + Java (JDBC)  
-- Real-Time Review System (DRS) – Review-based app  
+- Real-Time Review System (DRS) – Review-based app
+
+### 🏅 Badge Achievement  
+[![Kaggle Python Coder](https://raw.githubusercontent.com/rohanchandekar09/Portfolio/main/f17bc45e-f349-44e4-9b6a-4119b0756de2.png)](https://www.kaggle.com/rohanchandekar)
+
 
 ---
 
